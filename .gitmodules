@@ -1,0 +1,6 @@
+[submodule "Travel_agency"]
+	path = Travel_agency
+	url = https://github.com/DBusuru/Travel_agency.git
+[submodule "Bootstrap_restaurant"]
+	path = Bootstrap_restaurant
+	url = https://github.com/DBusuru/Bootstrap_restaurant.git
